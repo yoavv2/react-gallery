@@ -21,3 +21,6 @@ You will need to use 2 API endpoints:
 
 ### Hints:
 You don't need to create any new components, you can use App component only.
+
+---
+All rights reserved to Evyatar Rosner
